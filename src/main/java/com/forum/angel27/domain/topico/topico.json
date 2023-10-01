@@ -1,0 +1,21 @@
+{
+  "top_id": 4,
+  "titulo": "PRUEBA 4",
+  "mensaje": "MENSAJE 4",
+  "estatus": true,
+  "fecha_creacion": "2023-09-30",
+  "categoria": {
+    "cat_id": 4,
+    "categoria": "Maquetacion"
+  },
+  "curso": {
+    "cur_id": 4,
+    "curso": "Spring Boot"
+  },
+  "usuario": {
+    "usr_id": 2,
+    "nombre": "example2",
+    "correo": "example2@gmail.com",
+    "contrasenia": "$2y$10$uqV6BiGLZeMqGlSPm5JoP.uc7D9KA4ycpUOX6hOYDPIiOvnBv52M."
+  }
+}
